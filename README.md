@@ -9,3 +9,6 @@ Codewars is an educational community for computer programming. On the platform, 
 Click to read more about Codewars: [![Wikipedia](https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=Wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/Codewars)
 
 This repo contains solutions for some katas in ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen). More solutions from all ranks are coming soon...🐣
+
+
+Visit me on Codewars:  [![Codewars](https://www.codewars.com/users/Athanasia/badges/large)](https://www.codewars.com/users/Athanasia)
